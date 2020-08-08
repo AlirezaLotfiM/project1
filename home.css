@@ -3,7 +3,7 @@
 }
 body{
     margin: auto;    
-    background-image: url(./image/3.jpg);
+    background-image: url(./3.jpg);
     background-size: cover;
     user-select: none;
 }
